@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsReaderEDA</string>
+
+    <string-array name="nav_list">
+        <item>Home</item>
+        <item>About</item>
+    </string-array>
+
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+</resources>
